@@ -21,3 +21,4 @@
 5. 部分集合需要初始记录，请把 `resources/db_dump` 下的文件导入到对应集合
 6. 在 `/miniprogram/config.js` 中，修改 `envId` 字段为当前云开发环境 ID
 7. 如要体验存储的相关功能，请在云开发控制台的文件管理标签页中上传自己的 demo 文件（图片、视频），并将文件 ID 填入到 `/miniprogram/config.js` 的相关字段上
+hh
